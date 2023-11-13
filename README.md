@@ -1,0 +1,2 @@
+# Docs
+I hate SeesaaWiki
